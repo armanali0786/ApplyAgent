@@ -1,4 +1,4 @@
-# ReachOut AI — Automated HR Outreach Platform
+# ApplyAgent AI — Automated HR Outreach Platform
 
 **Live:** https://applyagent.netlify.app/
 
