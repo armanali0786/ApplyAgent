@@ -1,4 +1,4 @@
-# ApplyAgent AI — Automated HR Outreach Platform
+# ApplyAgent AI — Automated HR Outreach, Automation for auto reply mails, schedule mails, workflows Platform
 
 **Live:** https://applyagent.netlify.app/
 
