@@ -12,6 +12,8 @@ An end-to-end job outreach platform that lets candidates send personalised appli
 
 <img width="1853" height="887" alt="image" src="https://github.com/user-attachments/assets/b202b105-eb73-4dc3-bfb7-07480dc5aeb3" />
 
+<img width="1853" height="887" alt="image" src="https://github.com/user-attachments/assets/79e6278a-4094-45a9-9e33-04841632a95b" />
+
 ## Table of Contents
 
 1. [Tech Stack](#tech-stack)
