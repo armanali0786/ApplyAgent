@@ -8,8 +8,7 @@ An end-to-end job outreach platform that lets candidates send personalised appli
 
 <img width="1850" height="882" alt="image" src="https://github.com/user-attachments/assets/9b38cb8c-ea3e-42ec-88f8-a8ba0186b3b5" />
 
-<img width="1850" height="882" alt="image" src="https://github.com/user-attachments/assets/4a985772-997f-4242-9248-964d9c6d1f80" />
-
+<img width="1853" height="887" alt="image" src="https://github.com/user-attachments/assets/3978c2f7-b528-49dd-8347-ee65ea4a4fcc" />
 
 ## Table of Contents
 
